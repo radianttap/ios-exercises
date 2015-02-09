@@ -12,6 +12,7 @@
 
 - (NSInteger) increaseNumberBy1:(NSInteger) number {
     /* WORK HERE */
+	number++;
     return number;
 }
 
